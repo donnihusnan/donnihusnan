@@ -1,16 +1,43 @@
-## Hi there 👋
+# █▓▒░ Developer Dashboard ░▒▓█
 
-<!--
-**donnihusnan/donnihusnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
+Frontend Developer
 
-Here are some ideas to get you started:
+> status
+Building cool stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> current_focus
+React • Next.js • Mobile Apps
+
+> uptime
+24/7 curiosity
+```
+
+---
+
+### Metrics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=donnihusnan&show_icons=true&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com?user=donnihusnan&theme=github-dark-blue)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donnihusnan&layout=compact&theme=github_dark)
+
+---
+
+### Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/donnihusnan/donnihusnan/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donnihusnan&theme=github-dark)
+
+---
+
+### Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=donnihusnan&theme=onestar&no-frame=true)
